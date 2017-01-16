@@ -1,0 +1,4 @@
+{
+  "extend": "rallycoding",
+  "parser": "babel-eslint"
+}
